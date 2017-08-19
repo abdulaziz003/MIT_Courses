@@ -47,5 +47,5 @@ while (itersLeft>0):
 	y = y+x
 	itersLeft = itersLeft - 1
 	#print 'y = ', y. ', itersLeft = ', itersLeft
-print y
+print 'y is : ',y
 
